@@ -19,11 +19,11 @@ Authorized lab dossier for a local, intentionally vulnerable OWASP Juice Shop ru
 ## Evidence
 | File | Shows |
 |---|---|
-| [01-docker-running.png](01-docker-running.png) | Container running, port mapped to 127.0.0.1 |
-| [02-juice-shop-localhost.png](02-juice-shop-localhost.png) | Juice Shop open at 127.0.0.1:3000 |
-| [03-localhost-binding.png](03-localhost-binding.png) | Port 3000 listening on localhost only |
-| [04-versions.png](04-versions.png) | Docker version and image |
-| [05-kernel-info.png](05-kernel-info.png) | Kali Linux kernel and architecture |
+| [01-docker-running.png](evidence/01-docker-running.png) | Container running, port mapped to 127.0.0.1 |
+| [02-juice-shop-localhost.png](evidence/02-juice-shop-localhost.png) | Juice Shop open at 127.0.0.1:3000 |
+| [03-localhost-binding.png](evidence/03-localhost-binding.png) | Port 3000 listening on localhost only |
+| [04-versions.png](evidence/04-versions.png) | Docker version and image |
+| [05-kernel-info.png](evidence/05-kernel-info.png) | Kali Linux kernel and architecture |
 
 ## Lab setup
 ```
