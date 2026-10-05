@@ -1,7 +1,7 @@
 # Task 02: Legal Scope, Asset Inventory & Threat Model
 
 **Course:** Cybersecurity & Ethical Hacking, RabTech Academy
-**Author:** [Your full name]
+**Author:** [HARIPRASATH B]
 
 ## Summary
 Authorized lab dossier for a local, intentionally vulnerable OWASP Juice Shop running in Docker on a Kali Linux VM. The lab is bound to `127.0.0.1:3000`, so it is not reachable from any other device. No real system was tested.
