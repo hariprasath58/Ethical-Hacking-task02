@@ -1,0 +1,45 @@
+# Written Authorization for Security Testing
+
+**Document date:** [05 Oct 2026]
+
+## 1. Parties
+- **System owner / authorizer:** [HARIPRASATH B]
+- **Tester:** [HARIPRASATH B]
+- **Course:** Cybersecurity & Ethical Hacking, RabTech Academy (Task 02)
+
+## 2. Purpose
+Hands-on practice of security assessment in a controlled, personally owned lab. No real organization or user is affected.
+
+## 3. Authorized period
+- **Start:** [05 Oct 2026]
+- **End:** [05 Nov 2026]
+
+## 4. In-scope target (the only permitted system)
+| Item | Detail |
+|---|---|
+| Application | OWASP Juice Shop (intentionally vulnerable) |
+| Address | 127.0.0.1:3000 (localhost only) |
+| Runtime | Docker container `keen_neumann` (image bkimminich/juice-shop:latest) |
+| Host | Kali Linux virtual machine owned by the tester |
+
+## 5. Out-of-scope (must NOT be tested)
+- Home or campus router, Wi-Fi network and any other device on it
+- The physical host computer outside the Kali VM
+- Any website, server, or service on the internet
+- Internet service provider infrastructure
+- Cloud accounts, email accounts, social media accounts
+- Any account, system, or data belonging to another person
+
+## 6. Permitted activities
+Testing of Juice Shop's web application and its own API, inside the lab, as covered by the rules of engagement.
+
+## 7. Prohibited activities
+- Scanning or attacking anything outside the in-scope target
+- Exposing the lab to the network (it must stay bound to 127.0.0.1)
+- Using any technique against real systems
+- Publishing real personal data or credentials
+
+## 8. Acknowledgement
+I confirm I own the systems listed in section 4 and authorize testing only within this scope and period.
+
+**Signed:** [HARIPRASATH B]  **Date:** [05 Oct 2026]
